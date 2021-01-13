@@ -7,7 +7,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JustSteveKing/gtin-php/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/JustSteveKing/gtin-php/?branch=main)
 [![Total Downloads](https://img.shields.io/packagist/dt/juststeveking/gtin-php.svg?style=flat-square)](https://packagist.org/packages/juststeveking/gtin-php)
 
-A PHP package for validating GTIN codes for us in plain PHP and in Laravel.
+A PHP package for validating GTIN codes for use in plain PHP and in Laravel.
 
 ## Installation
 
