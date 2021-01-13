@@ -22,14 +22,13 @@
         }
     },
     "require": {
-        "php": "^7.4|^8.0",
-        "illuminate/support": "^8.22"
+        "php": "^7.4|^8.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.17",
         "orchestra/testbench": "^6.7",
+        "illuminate/support": "^8.22",
         "phpunit/phpunit": "^9.5",
-        "symfony/var-dumper": "5.x-dev",
         "vimeo/psalm": "^4.3"
     },
     "extra": {
